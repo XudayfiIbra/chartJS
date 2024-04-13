@@ -23,9 +23,7 @@ ChartJS.register(
 
 const LineChar = () => {
   const options = {
-    responsive : false,
-    width : 800,
-    height : 700
+    responsive: true,
   };
   return (
     <div>

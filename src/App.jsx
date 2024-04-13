@@ -1,11 +1,10 @@
-
-import ZoomHover from "./components/zoomHover";
+import LineChar from "./components/lineChar";
 
 function App() {
   return (
     <>
-      <div className="">
-        <ZoomHover />
+      <div className="ml-5 mr-5">
+        <LineChar />
       </div>
     </>
   );
