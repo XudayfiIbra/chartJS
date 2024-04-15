@@ -22,7 +22,7 @@ ChartJS.register(
 );
 
 const LineChar = () => {
-  const options = {
+  const options = { 
     responsive: true,
   };
   return (
