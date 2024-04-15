@@ -1,6 +1,6 @@
 
 # React With CharJS
-## Install CharJS with npm
+## Clone the project
 ```js
 git clone https://github.com/XudayfiIbra/chartJS.git
 cd chartJS
@@ -9,7 +9,7 @@ cd chartJS
 ```js
 npm install
 ```
-## Installation only for Chartjs
+## Installation for sperate project
 ### NPM
 ```js
 npm install chart.js
@@ -19,13 +19,10 @@ npm install chart.js
 ```js
 https://cdnjs.com/libraries/Chart.js
 ```
-### Available scripts
+### Start the server
 
 ```javascript
-npm start
-npm test
-npm run build
-npm run inject
+npm run dev
 ```
 
 ## Screenshots
